@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment variables file
+.env
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Output files
+dist/
+.vercel
