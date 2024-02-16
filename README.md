@@ -11,7 +11,7 @@ git clone https://github.com/iamovi/simple-chat-app.git
 
 2. **Navigate to the project directory:**
 ```bash
-cd socket-io-chat-app
+cd simple-chat-app/
 ```
 
 3. **Install the dependencies:**
