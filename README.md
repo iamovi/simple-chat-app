@@ -1,4 +1,4 @@
-# Socket.io Chat App
+# simple Socket.io Chat App
 
 This is a simple real-time chat application built with Socket.io and Express. Users can join the chat, send messages, and view messages from other connected users in real-time.
 
