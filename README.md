@@ -3,6 +3,7 @@
 This is a simple real-time chat application built with Socket.io and Express, made for practice purpose.
 
 ## Installation
+- make sure nodejs installed on your device, if not then install it from [https://nodejs.org/en](https://nodejs.org/en)
 
 1. **Clone the repository:**
 ```bash
