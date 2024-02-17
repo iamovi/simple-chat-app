@@ -27,7 +27,7 @@ npm install
 npm start
 ```
 
-2. Open your web browser and navigate to http://localhost:3000.
+2. Open your web browser and navigate to http://localhost:3000
 
 3. Open multiple tabs and start chatting in real-time!
 
